@@ -1,5 +1,5 @@
 -- Create the database if it does not exist
-CREATE DATABASE IF NOT EXISTS alx_book_store ;
+CREATE DATABASE IF NOT EXISTS alx_book_store;
 
 -- Use the database
 USE alx_book_store;
